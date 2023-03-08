@@ -1,5 +1,4 @@
-# Cliente de Zaragoza en juego
-## Template
+# Template cliente de Zaragoza en juego
 Este repositorio es una plantilla de proyecto de React vacio. Cualquier participante del grupo puede clonarla y crear un repositorio a partir de ella para hacer pruebas sobre react, probar un componente o lo que necesite.
 
 ## Empezar el desarrollo
